@@ -11,6 +11,7 @@ public class Application {
 		System.out.println("UP AND RUNNING : AMOL");
 		System.out.println("UP AND RUNNING : AMAN");
 		System.out.println("UP AND RUNNING : NISHCHAY");
+		System.out.println("UP AND RUNNING : PRATEEK");
 	}
 
 }
